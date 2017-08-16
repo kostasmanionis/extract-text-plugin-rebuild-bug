@@ -1,0 +1,16 @@
+{
+  "name": "extract-text-plugin-rebuild-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kostas Manionis <kostas.manionis@gmail.com>",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.4",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
